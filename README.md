@@ -24,5 +24,5 @@ Make your changes and ensure code quality.
 Submit a pull request describing your changes and their purpose.
 
 
-# OpenCV
+# OpenCV- Hamoye
 Team OpenCV - Animal detection images
