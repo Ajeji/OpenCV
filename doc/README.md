@@ -48,9 +48,7 @@ The Dataset was split into train, validation and test sets in the ratio of 0.7, 
 
 Yolov8 was implemented using command-line interface by installing ultralytics package. To build a new model , pre-trained weights were used with task argument as detect , mode as train , model as yolov8n . The model was trained for 50 epochs.
 
-```
-!yolo task=detect mode=train model=yolov8n.pt data=custom.yaml epochs=50 imgsz=640
-```
+
 
 ## EVALUATION
 The performance of the object detection algorithm is evaluated by metrics such as Precision Recall Curve (PR Curve), Mean Average Precision (mAP) and confusion matrix.

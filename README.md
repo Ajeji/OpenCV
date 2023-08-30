@@ -1,5 +1,5 @@
 # Real-time Animal-Species-Detection
-The aim of the project is to develop an effective computer vision model using Deep Learning algorithm that can be deployed as part of detection systems to detect wildlife in urban environments, on highways using real-time visuals to warn humans of potential collision with wildlife.
+The aim of the project is to develop an effective computer vision model that can detect wildlife in urban environments, on highways using real-time visuals to warn humans of potential collision with wildlife.
 
 
 ## Table of Contents
@@ -84,7 +84,7 @@ Follow theses steps to set up the environment and run the application.
     streamlit run './scripts/app.py'
     ```
 ## Evaluation
-The performance of the object detection algorithm is evaluated by metrics such as Precision, Recal, and Mean Average Precision (mAP).
+The performance of the model is evaluated by metrics such as Precision, Recal, and Mean Average Precision (mAP).
 
 | Model   | Precision | Recall | F1-score | mAP@0.5 | mAP@0.5:0.95 |
 |---------|-----------|--------|----------|---------|--------------|
