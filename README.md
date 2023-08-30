@@ -1,6 +1,11 @@
 # Real-time Animal-Species-Detection
 The aim of the project is to develop an effective computer vision model that can detect wildlife in urban environments, on highways using real-time visuals to warn humans of potential collision with wildlife.
 
+<p align="center">
+  <img src="./demo/demo.gif" alt="Demo GIF">
+</p>
+
+---
 
 ## Table of Contents
 - [Datasets](#datasets)
