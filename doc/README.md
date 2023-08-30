@@ -55,13 +55,13 @@ The performance of the object detection algorithm is evaluated by metrics such a
 
 ### PR CURVE
 
-![Project Evaluation](./figure/img5.png)
+![Project Evaluation](./figure/PR_curve_img5.png)
  
 Mean Average precision is 0.965 across all classes at 0.5 threshold , which is good. 
 
 ### CONFUSION MATRIX
 
-![Project Evaluation](./figure/img6.png)
+![Project Evaluation](./figure/norm_img6.png)
  
 ## MODEL DEPLOYMENT
 The model was deployed using Streamlit on Hugging face. Streamlit is an open-source app framework.
