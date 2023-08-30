@@ -10,12 +10,14 @@ The aim of the project is to develop an effective computer vision model using De
 - [Web App](#web-app)
 - [Author](#authors)
 
+
 ## Datasets
 * Dataset 1: The dataset was obtained from Kaggle. It contains images of 4 species of animals.This dataset can be accessed [here](https://www.kaggle.com/datasets/biancaferreira/african-wildlife).
 
 * Dataset 2: The dataset contained images of 11 species of animals. This dataset can be accessed [here](https://www.kaggle.com/datasets/brsdincer/danger-of-extinction-animal-image-set)
 
 * Dataset 3: The dataset obtained from Kaggle, containing images of 80 species of animals. This dataset can be accessed [here](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset)
+
 
 ## Project Structure
     ├── config
